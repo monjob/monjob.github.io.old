@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Merci
+title: Autre page
 permalink: /merci/
 published: true
 ---
 
-## Merci ! 
+
+## Autre page à éditer
