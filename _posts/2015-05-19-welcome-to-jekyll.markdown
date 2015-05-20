@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Lancement d'une CJS à Boulogne !"
 date:   2015-05-19 16:17:02
 categories: jekyll update
 ---
