@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Une CJS, qu'est-ce que c'est?"
+title: "Une CJS c'est quoi?"
 permalink: /about/
 published: true
 ---
