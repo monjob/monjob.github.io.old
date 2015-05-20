@@ -17,6 +17,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
   <label class="control-label">Nom Prénom <span class="required">*</span></label>
   <input type='text' name='Nom et prénom' /><br>
   <label class="control-label">Pourquoi participer ? <span class="required">*</span></label>
-  <input type='textarea data-field="17"' name='Pourquoi participer' />
+  <input type='textarea data-field="17"' name='Pourquoi participer' /><br>
   <input type='submit' value='Demander à participer' />
 </form>
