@@ -17,6 +17,10 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
   <!-- all your input fields here.... -->
   <label class="control-label">Nom Prénom</label><br>
   <input type='text' name='Nom et prénom' /><br>
+    <label class="control-label">Mail</label><br>
+  <input type='text' name='mail' /><br>
+      <label class="control-label">Numéro de portable</label><br>
+  <input type='text' name='numero' /><br>
   <label class="control-label">Pourquoi souhaitez vous participer ?</label><br>
   <textarea id='message' name='message' placeholder='Message' rows='8' cols='50'></textarea>
   <br><br>
