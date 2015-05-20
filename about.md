@@ -8,8 +8,6 @@ published: true
 
 
 
-# CJS Boulogne
-
 ## CJS à boulogne en 2015
 
 Une Coopérative Jeunesse de Services (CJS) est un projet d’éducation à la coopération dans le travail. Une CJS regroupe une quinzaine de jeunes minimum âgés de 16 à 18 ans, accompagnés par 2 animateurs­-trices, qui les formeront à conduire une entreprise coopérative. Il s’agit d’une expérience de 2 mois pour les jeunes, mais visant à les sensibiliser à l’entrepreneuriat en ESS sur le long terme.
