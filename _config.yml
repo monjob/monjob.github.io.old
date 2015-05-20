@@ -1,11 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: CJS BOULOGNE  
+email: cjsboulogne-contact@ulists.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
+ Plutôt que de chercher un job cet été, pourquoi ne pas le créer? Vous avez au moins 16 ans et encore rien de prévu pour cet été? Ce projet est pour vous! Vous pourrez inventer votre boulot pour juillet et août avec une dizaine d'autres jeunes de votre âge. 
+ 
+ Une équipe vous accompagnera tout au long de l'été. Elle vous aider à vous organiser et à trouver vos clients. 
+ 
+ Vous voulez participer? Remplissez le petit questionnaire et nous vous contacterons au plus vite.
+ 
+ A cet été!
+ 
+ 
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
