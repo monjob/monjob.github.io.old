@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Une CJS c'est quoi?"
-permalink: /about/
+permalink: /cjs/
 published: true
 ---
 
