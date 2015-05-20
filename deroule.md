@@ -14,8 +14,8 @@ Qui sait? Peut-être qu'un jour vous aurez envie de créer votre propre activit�
 
 Tout un tas d'activités seront prévues pendant les 2 mois, ce qui vous permettra de rencontrer un maximum de gens sur Boulogne, vous faire un réseau et imaginer des actions qui durent et qui rapportent de l'argent! Tout en prenant conscience de notre planète.
 
-Les CJS, ça existe déjà au Québec depuis 25 ans: http://www.reseau.coop/cjs/sections/index.php [test](http://www.reseau.coop/cjs/sections/index.php)
+Les CJS, ça existe déjà au Québec depuis 25 ans: cliquez [ici](http://www.reseau.coop/cjs/sections/index.php)
 
-Et en France ça a été mis en place dans plusieurs régions depuis 3 ans: http://www.ess-bretagne.org/actualites-rediffusees/2809-lancement-de-lexperimentation-cooperative-jeunesse-de-services-cjs-en-bretagne.html
+Et en France ça a été mis en place dans plusieurs régions depuis 3 ans: cliquez [ici](http://www.ess-bretagne.org/actualites-rediffusees/2809-lancement-de-lexperimentation-cooperative-jeunesse-de-services-cjs-en-bretagne.html)
 
-Pour Boulogne, on a créé une page facebook: https://www.facebook.com/cjsboulogne/timeline
+Pour Boulogne, on a créé une page facebook: cliquez [ici](https://www.facebook.com/cjsboulogne/timeline)
