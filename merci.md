@@ -2,7 +2,7 @@
 layout: page
 title: Merci
 permalink: /merci/
-published: false
+published: true
 ---
 
 ## Merci ! 
