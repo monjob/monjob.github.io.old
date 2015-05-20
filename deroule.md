@@ -11,7 +11,7 @@ Pendant 2 mois, c'est vous qui allez imaginer le job dont vous rêvez. Vous pour
 
 Qui sait? Peut-être qu'un jour vous aurez envie de créer votre propre activité avec des potes ou avec des gens qui ont les mêmes motivations que vous!
 
-Tout un tas d'activités seront prévues pendant les 2 mois, ce qui vous permettra de rencontrer un maximum de gens sur Boulogne, vous faire un réseau et imaginer des actions qui durent et qui rapportent de l'argent! Tout en prenant consciende de notre planète.
+Tout un tas d'activités seront prévues pendant les 2 mois, ce qui vous permettra de rencontrer un maximum de gens sur Boulogne, vous faire un réseau et imaginer des actions qui durent et qui rapportent de l'argent! Tout en prenant conscience de notre planète.
 
 Les CJS, ça existe déjà au Québec depuis 25 ans: http://www.reseau.coop/cjs/sections/index.php
 
