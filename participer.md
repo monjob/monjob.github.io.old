@@ -15,9 +15,10 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://monjob.github.io/merci/' />
   <!-- all your input fields here.... -->
-  <label class="control-label">Nom Prénom <span class="required">*</span></label><br>
+  <label class="control-label">Nom Prénom</label><br>
   <input type='text' name='Nom et prénom' /><br>
-  <label class="control-label">Pourquoi souhaitez vous participer ? <span class="required">*</span></label><br>
+  <label class="control-label">Pourquoi souhaitez vous participer ?</label><br>
   <textarea id='message' name='message' placeholder='Message' rows='8' cols='50'></textarea>
+  <textarea rows="5" cols="20"></textarea>
   <input type='submit' value='Demander à participer' />
 </form>
